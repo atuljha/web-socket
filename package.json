@@ -1,0 +1,23 @@
+{
+  "name": "socket-chat-itis-6177",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/atuljha/web-socket.git"
+  },
+  "author": "Atul Jha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atuljha/web-socket/issues"
+  },
+  "homepage": "https://github.com/atuljha/web-socket#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.5.3"
+  }
+}
